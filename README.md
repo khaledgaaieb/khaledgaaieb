@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <!--<a href="https://twitter.com/H4YTHEM" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> -->
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+🔭 I'am a Computer Science Student, highly interested in **web development**
 
-- 🔭 I'am a Software Engineering Student, highly interested in **web development**
+🌱 I’m currently learning **React,NodeJS,Django**
 
-- 🌱 I’m currently learning **Laravel, DevOps, Microservice**
+👯 I’m currently working on Full Stack JS project
 
 Looking for end of studies internship **Got something ? <a href="mailto:khaled.gaaieb@esprit.tn">Contact me ! </a>**  
 <br>
