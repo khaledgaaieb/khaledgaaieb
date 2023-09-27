@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I'am a Computer Science Student, highly interested in **web development**
+- 🔭 I'am a Software Engineering Student, highly interested in **web development**
 
-- 🌱 I’m currently learning **React,NodeJS,Django**
+- 🌱 I’m currently learning **Laravel, DevOps, Microservice**
 
-- 👯 I’m currently working on **Full Stack JS project**
-
-Actively looking for an internship, **Got something ? <a href="mailto:khaled.gaaieb@esprit.tn">Contact me ! </a>**  
+Looking for end of studies internship **Got something ? <a href="mailto:khaled.gaaieb@esprit.tn">Contact me ! </a>**  
 <br>
 <br>
 # Languages and Tools:
