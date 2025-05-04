@@ -3,6 +3,7 @@
 ###
 
 <h3 align="center">I'm a passionate software engineer from Tunisia, building innovative solutions and striving to shape a better future through technology.</h3>
+<div align="center"> <img height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  /></div>
 
 ###
 
@@ -10,13 +11,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
-
-###
-
-<p align="left">🛠️ Skills & Expertise: I specialize in full-stack web development, working mainly with React, Next.js, Supabase, Express.js, and NestJS, while following modern best practices.<br><br>📚 Lifelong Learning: I'm a lifelong learner constantly improving my technical and soft skills—currently diving deeper into Next.js 15 and Supabase.<br><br>🧠 Outside of Coding: I stay balanced by playing sports, solving chess puzzles, and occasionally camping to recharge and stay connected to the real world.<br><br>📬 connect with me on LinkedIn or drop me an email!</p>
+<p align="left">🛠️ Skills & Expertise: I specialize in full-stack web development, working mainly with React, Next.js, Supabase, Express.js, and NestJS, while following modern best practices.<br><br>📚 Lifelong Learning: I'm a lifelong learner constantly improving my technical and soft skills—currently diving deeper into Next.js 15 and Supabase.<br><br>🧠 Outside of Coding: I stay balanced by playing sports, solving chess puzzles, and occasionally camping to recharge and stay connected to the real world.<br><br>📬 Let’s Connect I'm open to exciting opportunities and collaborations—connect with me on LinkedIn or drop me an email!</p>
 
 ###
 
