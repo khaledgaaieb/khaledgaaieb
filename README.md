@@ -50,7 +50,8 @@
 
 ###
 
-# My DevCard
+###
+<h2 align="left">My DevCard</h2>
 <br>
 <div align="center"><a  href="https://app.daily.dev/Khaled_Gaaieb"><img src="https://api.daily.dev/devcards/db527c28b532461c8a56f70d034eac54.png?r=dza" width="300" alt="Khaled Gaaieb's Dev Card"/></a> </div>
 
