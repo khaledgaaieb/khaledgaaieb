@@ -3,7 +3,7 @@
 ###
 
 <h3 align="center">I'm a passionate software engineer from Tunisia, building innovative solutions and striving to shape a better future through technology.</h3>
-<div align="center"> <img height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  /></div>
+<div align="center"> <img height="270" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  /></div>
 
 ###
 
