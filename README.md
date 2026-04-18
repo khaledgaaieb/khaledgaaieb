@@ -8,8 +8,6 @@ I'm a passionate software engineer from Tunisia, building innovative solutions a
   <img height="275" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 </div>
 
----
-
 <h2 align="center">About me</h2>
 
 <p>
@@ -21,8 +19,6 @@ I'm a passionate software engineer from Tunisia, building innovative solutions a
 <br><br>
 📬 Let’s Connect: I'm open to exciting opportunities and collaborations—connect with me on LinkedIn or drop me an email!
 </p>
-
----
 
 <h2 align="center">I code with</h2>
 
@@ -57,8 +53,6 @@ I'm a passionate software engineer from Tunisia, building innovative solutions a
 
 </div>
 
----
-
 <h2 align="center">My DevCard</h2>
 
 <div align="center">
@@ -67,22 +61,11 @@ I'm a passionate software engineer from Tunisia, building innovative solutions a
   </a>
 </div>
 
----
-
 <h2 align="center">Contact Me</h2>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/khaled-gaaieb-248710200/" target="_blank" style="display:inline-block; margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
-</a>
-
-<a href="mailto:khaled.gaaieb@gmail.com" style="display:inline-block; margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100084069338270" target="_blank" style="display:inline-block; margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaled-gaaieb-248710200/" target="_blank">LinkedIn</a> •
+  <a href="mailto:khaled.gaaieb@gmail.com">Email</a> •
+  <a href="https://www.facebook.com/profile.php?id=100084069338270" target="_blank">Facebook</a> •
+  <a href="https://github.com/">GitHub</a>
+</p>
