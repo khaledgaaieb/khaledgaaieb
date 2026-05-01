@@ -53,13 +53,13 @@ I'm a passionate software engineer from Tunisia, building innovative solutions a
 
 </div>
 
-<h2 align="center">My DevCard</h2>
+<!-- <h2 align="center">My DevCard</h2>
 
 <div align="center">
   <a href="https://app.daily.dev/Khaled_Gaaieb">
     <img src="https://api.daily.dev/devcards/db527c28b532461c8a56f70d034eac54.png?r=dza" width="300"/>
   </a>
-</div>
+</div> -->
 
 <h2 align="center">Contact Me</h2>
 
