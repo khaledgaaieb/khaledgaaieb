@@ -4,9 +4,9 @@
 I'm a passionate software engineer from Tunisia, building innovative solutions and striving to shape a better future through technology.
 </h3>
 
-<div align="center">
+<!-- <div align="center">
   <img height="275" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-</div>
+</div> -->
 
 <h2 align="center">About me</h2>
 
