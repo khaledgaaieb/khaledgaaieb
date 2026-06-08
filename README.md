@@ -13,7 +13,7 @@ I'm a passionate software engineer from Tunisia, building innovative solutions a
 <p>
 🛠️ Skills & Expertise: I specialize in full-stack web development, working mainly with React, Next.js, Supabase, Express.js, and NestJS, while following modern best practices.
 <br><br>
-📚 Lifelong Learning: I'm a lifelong learner constantly improving my technical and soft skills—currently diving deeper into Next.js 15 and Supabase.
+📚 Lifelong Learning: I'm a lifelong learner constantly improving my technical and soft skills—currently diving deeper into Next.js 16, Supabase and ai technologies.
 <br><br>
 🧠 Outside of Coding: I stay balanced by playing sports, solving chess puzzles, and occasionally camping to recharge and stay connected to the real world.
 <br><br>
